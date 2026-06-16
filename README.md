@@ -1,4 +1,6 @@
-# Data Analytics Advanced Portfolio Additions
+# Retail RFM Customer Segmentation - Streamlit Application
+## Project Overview
+### Data Analytics Advanced Portfolio Additions
 
 This module adds advanced analytics components to your data analytics workspace repository, highlighting your skills in time-based modeling and cloud dashboard engineering.
 
